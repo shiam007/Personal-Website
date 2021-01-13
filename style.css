@@ -1,6 +1,7 @@
 body {
   margin: 0;
 }
+/* header section */
 .nav {
   margin-left: 1050px;
 }
@@ -98,6 +99,7 @@ section {
   width: 100%;
 }
 
+/* connected section */
 .chat {
   background-image: url(./images/Group_33094_1.png);
   background-size: 60%;
@@ -125,6 +127,8 @@ section {
   height: 30px;
   padding: 10px;
 }
+
+/* footer section */
 footer h6 {
   text-align: center;
   color: rgb(15, 155, 165);

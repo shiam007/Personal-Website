@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+}
+.nav {
+  margin-left: 1050px;
+}
+.nav a {
+  padding-left: 13px;
+  color: rgba(255, 166, 0, 0.87);
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 42px;
+}
+h2 {
+  font-size: 32px;
+}
+p {
+  color: dimgray;
+}
+.text-highlight {
+  color: hsl(16, 100%, 50%);
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 65%;
+}
+.myself {
+  margin-top: 42px;
+}
+section {
+  height: 500px;
+  padding-bottom: 150px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: rgb(255, 136, 0);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+.about {
+  margin-top: -200px;
+}
+
+/* ===   Working Project section === */
+.work {
+  background-color: #f8f9fc;
+  height: 600px;
+}
+.work p {
+  color: #6c6c6c;
+}
+.work h3 {
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.box-shadow {
+  box-shadow: 5px 5px 20px #eaebee;
+  border-radius: 20px;
+  background-color: white;
+}
+.box {
+  margin-top: 5%;
+  width: 80%;
+  display: flex;
+  margin-left: 10%;
+}
+#box-1 {
+  float: left;
+  text-align: center;
+  padding: 15px;
+  margin-left: 2%;
+}
+#box-2 {
+  float: left;
+  text-align: center;
+  margin-left: 2%;
+  padding: 15px;
+}
+#box-3 {
+  float: left;
+  text-align: center;
+  margin-left: 2%;
+  padding: 15px;
+}
+.box-img {
+  width: 100%;
+}
+
+.chat {
+  background-image: url(./images/Group_33094_1.png);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 400px;
+  position: relative;
+}
+.chat h2 {
+  margin-left: 315px;
+  padding-top: 138px;
+  font-size: 45px;
+  color: white;
+  display: inline-block;
+}
+.chat a {
+  margin-left: 310px;
+  margin-top: 183px;
+}
+.connect {
+  text-align: center;
+  margin-top: 5%;
+}
+.connect img {
+  height: 30px;
+  padding: 10px;
+}
+footer h6 {
+  text-align: center;
+  color: rgb(15, 155, 165);
+}
